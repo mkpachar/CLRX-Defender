@@ -8,7 +8,7 @@ Key Features
 •	Interpretability: Incorporates SHAP-compatible feature engineering for model transparency.
 Getting Started
 1.	Clone the Repository:
-git clone https://github.com/your-username/CLRX-Defender.git
+git clone https://github.com/mkpachar/CLRX-Defender.git
 
 2.	Install Dependencies:
 Ensure you have Python installed. Then, install necessary packages using pip:
